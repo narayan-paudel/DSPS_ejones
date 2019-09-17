@@ -1,4 +1,4 @@
-Created Elliott Jones I worked by myself for this lab
+Created by Elliott Jones I worked by myself for this lab
 
 I was told this was foolish but my schedule didn't really comply this week so guess I'll just get busy.
 
