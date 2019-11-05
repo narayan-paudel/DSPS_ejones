@@ -1,4 +1,7 @@
 ![image of plot](https://raw.githubusercontent.com/exalteded/DSPS_ejones/master/HW8/figure%20for%20hw8.png)
+
+
+
 Following are my recommendations for the visualization:
 1) Better use of space could have been done in the plot by starting y-axis at zero. Also, negative values for number of molecules doesnot make much sense.
 2) As the data points are conjested at smaller temperature, different scale in x-axis (eg log) could have made the features at low temperature more clear. It would improve clarity of the plot.
